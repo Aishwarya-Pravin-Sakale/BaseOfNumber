@@ -1,24 +1,4 @@
 
-None selected
-
-Skip to content
-Using Gmail with screen readers
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-1 of 3,488
-project
-Inbox
-
-Shivani Rabade
-Attachments
-17:01 (1 hour ago)
-to me
-
-
-Attachments area
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -95,5 +75,3 @@ int main() {
    }
 
 }
-main.cpp
-Displaying main.cpp.
